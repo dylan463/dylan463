@@ -7,14 +7,21 @@ Hi! My name is Dylan, and I am a student with a passion for software development
 
 - 🎓 **Computer Science Student**: Currently in training, I am acquiring the necessary skills to become a versatile developer.
 - 💻 **Passionate About Development**: I enjoy exploring various technologies, frameworks, and programming languages.
-- 🌱 **Always Learning**: Whether participating in personal projects, hackathons, or taking online courses, I am always eager to learn and improve.
+- 🌱 **Always Learning**: Whether participating in personal projects, or taking online courses, I am always eager to learn and improve.
 
 ## Skills
 
 - **Programming Languages**: Python, JavaScript, C++
 - **Web Development**: HTML, CSS, Node.js
-- **Databases**: MySQL
-- **Tools & Environments**: Git, VS Code
+- **Databases**: MySQL,PostgreSQL,MongoDB
+- **Tools & Environments**: Github, VS Code
+
+## python package mastery
+
+- **web Development**: Django,FastAPI
+- **data handling**: Pandas,openxl
+- **Machine Learning**: Numpy,sklearn,pytorch
+-  **web automation**: selenium, beautifulsoup
 
 ## Goals
 
